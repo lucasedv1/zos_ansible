@@ -26,93 +26,93 @@ prod:
       EUB7:
           hosts:
             meub7.vipa.uk.ibm.com:   
-       EUB9:
+      EUB9:
           hosts:
             meub9.vipa.uk.ibm.com:
-       EUBA:
+      EUBA:
           hosts:
             meuba.vipa.uk.ibm.com:
-       EUBU:
+      EUBU:
           hosts:
             meubu.vipa.uk.ibm.com:
-       EUBX:
+      EUBX:
           hosts:
             meubx.vipa.uk.ibm.com:
-       EUBY:
+      EUBY:
           hosts:
             meuby.vipa.uk.ibm.com:
-       EUBZ:
+      EUBZ:
           hosts:
             meubz.vipa.uk.ibm.com:
-       EUC1:
+      EUC1:
           hosts:
             meuc1.vipa.uk.ibm.com:
-       EUC3:
+      EUC3:
           hosts:
             meuc3.vipa.uk.ibm.com:
-       EUCA:
+      EUCA:
           hosts:
             meuca.vipa.uk.ibm.com:
-       EUHA:
+      EUHA:
           hosts:
             meuha.vipa.uk.ibm.com:
-       EUHB:
+      EUHB:
           hosts:
             meuhb.vipa.uk.ibm.com:     
-       EUHC:
+      EUHC:
           hosts:
             meuhc.vipa.uk.ibm.com:        
-       EUHP:
+      EUHP:
           hosts:
             meuhp.vipa.uk.ibm.com:
-       EUHR:
+      EUHR:
           hosts:
             meuhr.vipa.uk.ibm.com:
-       EUHX:
+      EUHX:
           hosts:
             meuhx.vipa.uk.ibm.com: 
-       EUHY:
+      EUHY:
           hosts:
             meuhy.vipa.uk.ibm.com:
-       EUHZ:
+      EUHZ:
           hosts:
             meuhz.vipa.uk.ibm.com:
-       EUK1:
+      EUK1:
           hosts:
             meuk1.vipa.uk.ibm.com:
-       EUK2:
+      EUK2:
           hosts:
             meuk2.vipa.uk.ibm.com:
-       EUMA:
+      EUMA:
           hosts:
             meuma.vipa.uk.ibm.com:
-       EUS1:
+      EUS1:
           hosts:
             meus1.vipa.uk.ibm.com:
-       EUS2:
+      EUS2:
           hosts:
             meus2.vipa.uk.ibm.com:
-       EUS3:
+      EUS3:
           hosts:
             meus3.vipa.uk.ibm.com:
-       EUS4:
+      EUS4:
           hosts:
             meus4.vipa.uk.ibm.com:
-       EUSN:
+      EUSN:
           hosts:
             meusn.vipa.uk.ibm.com:     
-       EUSP:
+      EUSP:
           hosts:
             meusp.vipa.uk.ibm.com:
-       EUSX:
+      EUSX:
           hosts:
             meusx.vipa.uk.ibm.com:
-       EUSY:
+      EUSY:
           hosts:
             meusy.vipa.uk.ibm.com:
-       EUSZ:
+      EUSZ:
           hosts:
-            meusz.vipa.uk.ibm.com:
+            meusz.vipa.uk.ibm.com:      
             
       newdcs:
       zos_us_1:
@@ -195,5 +195,3 @@ dev:
       zos_us_1:
       zos_us_2:
       zos_us_3:
-
-  
